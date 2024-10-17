@@ -1,0 +1,28 @@
+## LLM APIs
+# anthropic
+
+# Installing collected packages: wcwidth, pyperclip, pydub, ptyprocess, 
+# zipp, urllib3, tree-sitter, soupsieve, smmap, rpds-py, regex, pyyaml, 
+# python-dotenv, pypandoc, pygments, pyflakes, pycparser, pycodestyle, psutil, 
+# prompt-toolkit, pexpect, pathspec, numpy, networkx, multidict, mdurl, mccabe, 
+# markupsafe, json5, jiter, importlib-resources, httpcore, fsspec, frozenlist, 
+# filelock, diskcache, diff-match-patch, configargparse, click, charset-normalizer, 
+# attrs, aiohappyeyeballs, yarl, tree-sitter-languages, scipy, requests, referencing, 
+# markdown-it-py, jinja2, importlib-metadata, gitdb, flake8, cffi, beautifulsoup4, aiosignal, 
+# tiktoken, soundfile, sounddevice, rich, openai, jsonschema-specifications, 
+# huggingface-hub, grep-ast, gitpython, aiohttp, tokenizers, jsonschema, litellm, aider-chat
+aider-chat
+backoff
+openai
+## Viz
+matplotlib
+# pypdf
+# pymupdf4llm
+## Common Requirements
+# torch
+# numpy
+# transformers
+# datasets
+# tiktoken
+# wandb
+# tqdm

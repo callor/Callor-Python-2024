@@ -1,0 +1,44 @@
+[
+    {
+        "Name": "Address_security_issues_in_Ethereum_smart_contracts",
+        "Title": "Design and implementation of a framework to address security issues in Ethereum smart contracts",
+        "Experiment": "This paper is about smart contracts, a core function of Ethereum, a distributed application platform based on blockchain technology, which enables automated contract execution and is being utilized in various industrial fields. However, various security issues are occurring due to security vulnerabilities in smart contracts. In this paper, we analyze the security issues of Ethereum smart contracts and propose solutions to solve them.",
+        "Interestingness": 5,
+        "Feasibility": 3,
+        "Novelty": 3,
+        "Novel": true
+    },
+    {
+        "Name": "Implementing_a_framework_for_analyzing_smart_contract_security",
+        "Title": "Implementing a framework for analyzing smart contract security vulnerabilities and automating security",
+        "Experiment": "This paper proposes a design and implementation solution for a framework that analyzes security vulnerabilities in smart contracts, a core function of Ethereum, a decentralized application platform based on blockchain technology, and performs automated vulnerability detection to establish a response strategy.",
+        "Interestingness": 4,
+        "Feasibility": 4,
+        "Novelty": 4,
+        "Novel": true
+    },
+    {
+        "Name": "explore_tokenization_strategies",
+        "Title": "Exploring Tokenization Strategies for Character-Level Language Models",
+        "Experiment": "Modify the data loader to incorporate different tokenization methods such as subword, byte-pair encoding, and hybrid strategies. Update the model input handling to support variable token sizes. Train models with each tokenization approach and compare metrics such as training time, validation loss, inference speed, and generalization ability across datasets. Analyze the results to determine the most effective tokenization strategy.",
+        "Interestingness": 8,
+        "Feasibility": 7,
+        "Novelty": 7
+    },
+    {
+        "Name": "memory_augmented_attention",
+        "Title": "Enhancing Character-Level Language Models with Memory-Augmented Attention",
+        "Experiment": "Modify the model architecture to include a memory module, such as memory-augmented neural network (MANN) or an attention-based memory mechanism. Update the forward method to handle memory state updates and retention across sequences. Train models with this modification and compare metrics such as validation loss, inference speed, and generalization ability across datasets. Analyze the results to determine the impact of memory augmentation on model performance.",
+        "Interestingness": 9,
+        "Feasibility": 6,
+        "Novelty": 8
+    },
+    {
+        "Name": "contrastive_learning_integration",
+        "Title": "Integrating Contrastive Learning for Enhanced Character-Level Language Models",
+        "Experiment": "Modify the training loop to incorporate a contrastive loss alongside the existing cross-entropy loss. Implement a function to generate positive and negative pairs of character sequences: positive pairs could be consecutive sequences, while negative pairs could be randomly sampled from non-consecutive contexts. Update the model's loss calculation to include the contrastive loss term, possibly using a subset of data to manage computational overhead. Ensure the use of existing functions for loss and data handling. Assess performance improvements through validation loss, generalization capability, and specific metrics like text generation coherence and perplexity reduction.",
+        "Interestingness": 9,
+        "Feasibility": 7,
+        "Novelty": 8
+    }
+]

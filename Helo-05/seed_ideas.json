@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Address_security_issues_in_Ethereum_smart_contracts",
+    "Title": "이더리움 스마트 계약의 보안 문제를 해결하기 위한 프레임워크의 설계 및 구현",
+    "Experiment": "이 논문은 블록체인 기술을 기반으로 하는 분산형 애플리케이션 플랫폼인 이더리움의 핵심 기능인 스마트 계약에 관한 것입니다. 스마트 계약은 자동화된 계약 실행을 가능하게 하며 다양한 산업 분야에서 활용되고 있습니다. 하지만 스마트 계약의 보안 취약성으로 인해 다양한 보안 문제가 발생하고 있습니다. 이 논문에서는 이더리움 스마트 계약의 보안 문제를 분석하고 이를 해결하기 위한 솔루션을 제안합니다.",
+    "Interestingness": 5,
+    "Feasibility": 3,
+    "Novelty": 3,
+    "Novel": true
+  },
+  {
+    "Name": "Implementing_a_framework_for_analyzing_smart_contract_security",
+    "Title": "스마트 계약 보안 취약점 분석 및 보안 자동화를 위한 프레임워크 구현",
+    "Experiment": "본 논문에서는 블록체인 기술을 기반으로 한 분산형 애플리케이션 플랫폼인 이더리움의 핵심 기능인 스마트 계약의 보안 취약성을 분석하고, 자동화된 취약성 탐지를 수행하여 대응 전략을 수립하는 프레임워크에 대한 설계 및 구현 솔루션을 제안한다.",
+    "Interestingness": 4,
+    "Feasibility": 4,
+    "Novelty": 4,
+    "Novel": true
+  }
+]
