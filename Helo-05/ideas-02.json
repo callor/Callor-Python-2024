@@ -1,0 +1,44 @@
+[
+    {
+        "Name": "Address_security_issues_in_Ethereum_smart_contracts",
+        "Title": "Design and implementation of a framework to address security issues in Ethereum smart contracts",
+        "Experiment": "This paper is about smart contracts, a core function of Ethereum, a distributed application platform based on blockchain technology, which enables automated contract execution and is being utilized in various industrial fields. However, various security issues are occurring due to security vulnerabilities in smart contracts. In this paper, we analyze the security issues of Ethereum smart contracts and propose solutions to solve them.",
+        "Interestingness": 5,
+        "Feasibility": 3,
+        "Novelty": 3,
+        "Novel": true
+    },
+    {
+        "Name": "Implementing_a_framework_for_analyzing_smart_contract_security",
+        "Title": "Implementing a framework for analyzing smart contract security vulnerabilities and automating security",
+        "Experiment": "This paper proposes a design and implementation solution for a framework that analyzes security vulnerabilities in smart contracts, a core function of Ethereum, a decentralized application platform based on blockchain technology, and performs automated vulnerability detection to establish a response strategy.",
+        "Interestingness": 4,
+        "Feasibility": 4,
+        "Novelty": 4,
+        "Novel": true
+    },
+    {
+        "Name": "hybrid_tokenization_strategy",
+        "Title": "Exploring Hybrid Tokenization Strategies for Character-Level Language Models",
+        "Experiment": "Implement a tokenizer that supports both character-level and subword-level tokenization. Modify the input encoding and decoding functions to handle a mixed granularity of tokens. Evaluate the model's performance on shakespeare_char, enwik8, and text8 datasets using this hybrid tokenization, and compare results against character-level and word-level baselines.",
+        "Interestingness": 7,
+        "Feasibility": 6,
+        "Novelty": 7
+    },
+    {
+        "Name": "multitask_character_word_learning",
+        "Title": "Exploring Multitask Character and Word-Level Learning in Small Language Models",
+        "Experiment": "Modify the training loop to incorporate multiple tasks, such as text generation and sentiment analysis, with different datasets. Implement task-specific heads after the shared transformer layers. Evaluate performance improvements on individual tasks and overall multitask learning efficiency compared to single-task baselines.",
+        "Interestingness": 8,
+        "Feasibility": 7,
+        "Novelty": 8
+    },
+    {
+        "Name": "adaptive_learning_rate",
+        "Title": "Implementing Adaptive Learning Rates for Character-Level Language Models",
+        "Experiment": "Modify the training loop to incorporate an adaptive learning rate mechanism. Implement a function that dynamically adjusts the learning rate based on the model's gradient statistics, such as the variance or norm of the gradients. Evaluate the model's performance on the shakespeare_char, enwik8, and text8 datasets by comparing training time, convergence speed, and final validation loss against static learning rate baselines.",
+        "Interestingness": 8,
+        "Feasibility": 7,
+        "Novelty": 9
+    }
+]

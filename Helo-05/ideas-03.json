@@ -1,0 +1,44 @@
+[
+    {
+        "Name": "Address_security_issues_in_Ethereum_smart_contracts",
+        "Title": "\uc774\ub354\ub9ac\uc6c0 \uc2a4\ub9c8\ud2b8 \uacc4\uc57d\uc758 \ubcf4\uc548 \ubb38\uc81c\ub97c \ud574\uacb0\ud558\uae30 \uc704\ud55c \ud504\ub808\uc784\uc6cc\ud06c\uc758 \uc124\uacc4 \ubc0f \uad6c\ud604",
+        "Experiment": "\uc774 \ub17c\ubb38\uc740 \ube14\ub85d\uccb4\uc778 \uae30\uc220\uc744 \uae30\ubc18\uc73c\ub85c \ud558\ub294 \ubd84\uc0b0\ud615 \uc560\ud50c\ub9ac\ucf00\uc774\uc158 \ud50c\ub7ab\ud3fc\uc778 \uc774\ub354\ub9ac\uc6c0\uc758 \ud575\uc2ec \uae30\ub2a5\uc778 \uc2a4\ub9c8\ud2b8 \uacc4\uc57d\uc5d0 \uad00\ud55c \uac83\uc785\ub2c8\ub2e4. \uc2a4\ub9c8\ud2b8 \uacc4\uc57d\uc740 \uc790\ub3d9\ud654\ub41c \uacc4\uc57d \uc2e4\ud589\uc744 \uac00\ub2a5\ud558\uac8c \ud558\uba70 \ub2e4\uc591\ud55c \uc0b0\uc5c5 \ubd84\uc57c\uc5d0\uc11c \ud65c\uc6a9\ub418\uace0 \uc788\uc2b5\ub2c8\ub2e4. \ud558\uc9c0\ub9cc \uc2a4\ub9c8\ud2b8 \uacc4\uc57d\uc758 \ubcf4\uc548 \ucde8\uc57d\uc131\uc73c\ub85c \uc778\ud574 \ub2e4\uc591\ud55c \ubcf4\uc548 \ubb38\uc81c\uac00 \ubc1c\uc0dd\ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4. \uc774 \ub17c\ubb38\uc5d0\uc11c\ub294 \uc774\ub354\ub9ac\uc6c0 \uc2a4\ub9c8\ud2b8 \uacc4\uc57d\uc758 \ubcf4\uc548 \ubb38\uc81c\ub97c \ubd84\uc11d\ud558\uace0 \uc774\ub97c \ud574\uacb0\ud558\uae30 \uc704\ud55c \uc194\ub8e8\uc158\uc744 \uc81c\uc548\ud569\ub2c8\ub2e4.",
+        "Interestingness": 5,
+        "Feasibility": 3,
+        "Novelty": 3,
+        "Novel": true
+    },
+    {
+        "Name": "Implementing_a_framework_for_analyzing_smart_contract_security",
+        "Title": "\uc2a4\ub9c8\ud2b8 \uacc4\uc57d \ubcf4\uc548 \ucde8\uc57d\uc810 \ubd84\uc11d \ubc0f \ubcf4\uc548 \uc790\ub3d9\ud654\ub97c \uc704\ud55c \ud504\ub808\uc784\uc6cc\ud06c \uad6c\ud604",
+        "Experiment": "\ubcf8 \ub17c\ubb38\uc5d0\uc11c\ub294 \ube14\ub85d\uccb4\uc778 \uae30\uc220\uc744 \uae30\ubc18\uc73c\ub85c \ud55c \ubd84\uc0b0\ud615 \uc560\ud50c\ub9ac\ucf00\uc774\uc158 \ud50c\ub7ab\ud3fc\uc778 \uc774\ub354\ub9ac\uc6c0\uc758 \ud575\uc2ec \uae30\ub2a5\uc778 \uc2a4\ub9c8\ud2b8 \uacc4\uc57d\uc758 \ubcf4\uc548 \ucde8\uc57d\uc131\uc744 \ubd84\uc11d\ud558\uace0, \uc790\ub3d9\ud654\ub41c \ucde8\uc57d\uc131 \ud0d0\uc9c0\ub97c \uc218\ud589\ud558\uc5ec \ub300\uc751 \uc804\ub7b5\uc744 \uc218\ub9bd\ud558\ub294 \ud504\ub808\uc784\uc6cc\ud06c\uc5d0 \ub300\ud55c \uc124\uacc4 \ubc0f \uad6c\ud604 \uc194\ub8e8\uc158\uc744 \uc81c\uc548\ud55c\ub2e4.",
+        "Interestingness": 4,
+        "Feasibility": 4,
+        "Novelty": 4,
+        "Novel": true
+    },
+    {
+        "Name": "code_generation_model",
+        "Title": "Exploring Code Generation Capabilities of Language Models",
+        "Experiment": "Adapt the existing language model to train on a dataset of Python code. Modify the tokenization process to better handle code syntax. Evaluate the model's ability to generate syntactically correct and semantically meaningful code snippets. This involves fine-tuning the existing architecture and potentially adjusting the embedding layers to focus on syntax and semantics of programming languages.",
+        "Interestingness": 8,
+        "Feasibility": 6,
+        "Novelty": 7
+    },
+    {
+        "Name": "multilingual_conversational_model_with_transfer_learning",
+        "Title": "Enhancing Multilingual Conversational Models Using Transfer Learning",
+        "Experiment": "Adapt the current character-level model to include datasets from multiple languages. Implement a tokenization process sensitive to different scripts and languages. Utilize transfer learning by training the model first on a high-resource language and then fine-tuning it on lower-resource language datasets. Evaluate the model's ability to generate coherent conversational text across different languages using multilingual prompts. This will involve optimizing the embedding layers and training hyperparameters for multilingual capabilities.",
+        "Interestingness": 9,
+        "Feasibility": 7,
+        "Novelty": 8
+    },
+    {
+        "Name": "noise_robustness_in_language_models",
+        "Title": "Investigating Noise Robustness in Language Models",
+        "Experiment": "Introduce character-level noise (insertions, deletions, substitutions) into training datasets. Modify data loading to manage these variations. Train models on each noisy dataset and evaluate using perplexity and accuracy against a baseline. Integrate data augmentation and adversarial training into the workflow to enhance robustness. Compare results across noise types to identify vulnerabilities, aiming for applications like social media text processing or OCR.",
+        "Interestingness": 8,
+        "Feasibility": 7,
+        "Novelty": 6
+    }
+]
